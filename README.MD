@@ -1,5 +1,6 @@
 ## 💻 Projeto
-Lista de exercicios de banco de dados utilizando o banco SAKILA(Portugues), Banco Sakila exercicios Locadora / Sakila_db 🎲<br>
+Lista de exercicios de banco de dados utilizando o banco SAKILA(Portugues)<br>
+Banco Sakila exercicios Locadora / Sakila_db 🎲<br>
 
 ## 🔖 Para fazer os exercicios teve a utilizaçao dos seguintes metodos:
 - SELECT
@@ -8,7 +9,7 @@ Lista de exercicios de banco de dados utilizando o banco SAKILA(Portugues), Banc
 - VIEW
 - FUNCTIONS
 
-## 🔖 Imagem do diagrama utilizado a seguir...
+## 📷 Imagem do diagrama utilizado a seguir...
 
 <p align="center">
 <img width="100%" src="Diagrama/DerSakila.png">
