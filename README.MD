@@ -2,7 +2,7 @@
 Banco Sakila exercicios Locadora / Sakila_db 🎲<br>
 Lista de exercicios de banco de dados utilizando o banco SAKILA(Portugues), imagem do diagrama utilizado esta a seguir...
 <p align="center">
-<img width="100%" src="Diagrama/DERSakila_Português.PNG">
+<img width="100%" src="Diagrama/DerSakila.PNG">
 </p>
 
 
